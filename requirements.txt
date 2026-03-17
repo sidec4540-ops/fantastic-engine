@@ -1,0 +1,6 @@
+aiogram
+pydantic-settings
+aiohttp
+lxml
+beautifulsoup4
+aiosqlite
